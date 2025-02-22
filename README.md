@@ -1,10 +1,16 @@
-<title> Estructura del proyecto </title> : 
+<h1>Directory Structure </h1> 
+📁 data/            # Raw and processed data  
 <br>
-📁 data/            # Datos crudos y procesados  
-📁 docs/            # Documentación  
-📁 models/          # Modelos entrenados  
-📁 notebooks/       # Notebooks de análisis y pruebas  
-📁 pipeline/        # Flujo de procesamiento de datos  
-📁 reports/         # Gráficos y reportes  
-📁 src/             # Código principal  
-📁 utils/           # Funciones auxiliares  
+📁 docs/            # Documentation
+<br>
+📁 models/          # Trained models  
+<br>
+📁 notebooks/       # Analysis and testing notebooks 
+<br>
+📁 pipeline/        # Data Processing Flow 
+<br>
+📁 reports/         # Charts and reports
+<br>
+📁 src/             # Source code
+<br>
+📁 utils/           # Helper functions
