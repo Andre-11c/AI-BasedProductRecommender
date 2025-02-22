@@ -1,4 +1,4 @@
-Estructura del proyecto : 
+<title> Estructura del proyecto </title> : 
 <br>
 📁 data/            # Datos crudos y procesados  
 📁 docs/            # Documentación  
