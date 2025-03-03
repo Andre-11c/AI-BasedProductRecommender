@@ -7,10 +7,4 @@
 <br>
 📁 notebooks/       # Analysis and testing notebooks 
 <br>
-📁 pipeline/        # Data Processing Flow 
-<br>
-📁 reports/         # Charts and reports
-<br>
-📁 src/             # Source code
-<br>
-📁 utils/           # Helper functions
+
